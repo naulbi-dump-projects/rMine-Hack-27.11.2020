@@ -1,0 +1,3 @@
+name: rMine
+version: ${project.version}
+main: ru.re1kh
